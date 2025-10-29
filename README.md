@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Banner de Bernardo Lobo" width="100%">
+  <img src="banner.png" alt="Banner de Bernardo Lobo" width="100%">
 </p>
 
 ---
