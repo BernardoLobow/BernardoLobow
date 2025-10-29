@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/LyeHGdQ" alt="Banner de Bernardo Lobo" width="100%">
+  <img src="./banner.png" alt="Banner de Bernardo Lobo" width="100%">
 </p>
 
 ---
