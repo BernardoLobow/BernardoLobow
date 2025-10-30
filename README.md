@@ -38,7 +38,7 @@ Busco criar soluções que façam sentido, que contem histórias e que sirvam à
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/bernardolobow](https://linkedin.com/in/bernardolobow)  
+- **LinkedIn:** [linkedin.com/in/bernardohlobo](https://www.linkedin.com/in/bernardohlobo/)  
 - **Email:** bernardolobow@gmail.com  
 - **GitHub:** [github.com/bernardolobow](https://github.com/bernardolobow)
 
